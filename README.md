@@ -1,7 +1,28 @@
-## PHP Practice
+# PHP Learning Journey
 
-Ce dépôt contient un ensemble d'exercices et de mini-projets que j'ai réalisés afin d'apprendre le langage de programmation PHP. Les exercices sont organisés en cinq travaux pratiques (TP) de difficulté croissante, allant des concepts de base aux projets plus avancés.
+A comprehensive collection of PHP exercises and mini-projects designed to progressively build PHP programming skills. This repository contains five practical workshops (TP1-TP5) that cover everything from basic PHP concepts to advanced web development projects.
 
-Chaque TP contient un ensemble d'exercices qui permettent de mettre en pratique les compétences acquises. Les exercices sont organisés de manière à ce que la difficulté augmente progressivement. Chaque TP contient également des instructions détaillées pour la réalisation des exercices.
+## ðŸ“š Workshop Structure
 
-Ce dépôt est destiné à toute personne souhaitant apprendre PHP ou améliorer ses compétences en PHP. N'hésitez pas à cloner ce dépôt et à explorer les différents TP pour apprendre et vous améliorer en PHP.
+- **TP1**: PHP Fundamentals - Variables, functions, and basic syntax
+- **TP2**: Control Structures - Conditionals, loops, and form handling
+- **TP3**: Web Forms - User input processing and validation
+- **TP4**: Database Integration - CRUD operations and data management
+- **TP5**: Advanced Features - User authentication, themes, and complete web applications
+
+## Learning Objectives
+
+Each workshop builds upon the previous one, providing:
+- Hands-on coding exercises with increasing complexity
+- Real-world web development scenarios
+- Best practices for PHP programming
+- Database interaction and security considerations
+
+## Getting Started
+
+1. Clone this repository
+2. Navigate to any TP folder to explore the exercises
+3. Follow the PDF instructions (where available)
+4. Run the PHP files using a local server (XAMPP, WAMP, etc.)
+
+Perfect for beginners learning PHP or experienced developers looking to refresh their skills!
