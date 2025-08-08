@@ -2,7 +2,7 @@
 
 A comprehensive collection of PHP exercises and mini-projects designed to progressively build PHP programming skills. This repository contains five practical workshops (TP1-TP5) that cover everything from basic PHP concepts to advanced web development projects.
 
-## 📚 Workshop Structure
+## Workshop Structure
 
 - **TP1**: PHP Fundamentals - Variables, functions, and basic syntax
 - **TP2**: Control Structures - Conditionals, loops, and form handling
@@ -26,3 +26,5 @@ Each workshop builds upon the previous one, providing:
 4. Run the PHP files using a local server (XAMPP, WAMP, etc.)
 
 Perfect for beginners learning PHP or experienced developers looking to refresh their skills!
+
+Nolan CACHEUX
